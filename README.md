@@ -56,12 +56,15 @@ I enjoy working on real-world infrastructure problems involving **AWS, Kubernete
 ---
 
 ## 🧰 Tech Stack
-```bash
+
 **Cloud:** AWS (EC2, S3, RDS, VPC, IAM, CloudWatch)
+
 **DevOps:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Ansible
+
 **Monitoring:** Prometheus, Grafana
+
 **Languages:** Python, Bash, SQL
-```
+
 ---
 
 ## 📈 Currently Working On
